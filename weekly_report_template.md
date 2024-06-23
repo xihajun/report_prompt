@@ -30,9 +30,9 @@ Briefly summarize the key achievements of the week, including any significant im
 
 - **Documentation Plans**: Discuss any plans for future documentation improvements or areas that need better coverage.
 
-## Challenges and Considerations
+## Code Suggestion
 
-- Discuss any significant challenges faced during the week, including technical hurdles, benchmarking inconsistencies, or infrastructure issues, and how they were addressed or plan to be tackled.
+- Analyse the code, and provide better suggestion in terms of code readability and design pattern.
 
 ## Looking Ahead
 
