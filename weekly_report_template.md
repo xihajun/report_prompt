@@ -1,41 +1,111 @@
-<template>
+# Weekly Code Repository Report
 
-# Weekly Report: [Project Name] - [Date/Week]
+**Date Range**: [Start Date] to [End Date]
 
 ## Executive Summary
 
-Briefly summarize the key achievements of the week, including any significant improvements in benchmarking results, new features in the benchmarking pipeline, and overall project progress.
+Provide a brief overview of the key developments, achievements, and challenges encountered across all repositories during the week. Highlight significant progress and any overarching themes or patterns observed.
+
+## Repository Highlights
+
+### Repository 1: [Repository Name]
+
+- **Main Developments**: Summarize the most important updates or changes.
+- **Key Contributors**: Acknowledge team members who made significant contributions.
+- **Challenges**: Note any issues or blockers faced.
+
+### Repository 2: [Repository Name]
+
+- **Main Developments**: Summarize the most important updates or changes.
+- **Key Contributors**: Acknowledge team members who made significant contributions.
+- **Challenges**: Note any issues or blockers faced.
+
+*(Repeat for each repository)*
 
 ## Feature Enhancements
 
-- **New Features**: Describe any new features added to your benchmarking tools or infrastructure, focusing on how they improve the benchmarking process or results analysis.
+### New Features Implemented
 
-- **Upcoming Features**: Provide a sneak peek into features in the pipeline that are expected to impact future benchmarking efforts.
+- **Repository 1**:
+  - List and briefly describe new features added.
+- **Repository 2**:
+  - List and briefly describe new features added.
+
+### Upcoming Features
+
+- **Repository 1**:
+  - Outline features currently in development or planned.
+- **Repository 2**:
+  - Outline features currently in development or planned.
 
 ## Infrastructure and Tooling Updates
 
-- **Infrastructure Improvements**: Detail upgrades or modifications to your benchmarking infrastructure, including hardware, software, or network enhancements.
+### Infrastructure Improvements
 
-- **Tooling Updates**: Highlight updates to benchmarking tools, including new versions, bug fixes, or performance optimizations.
+- **Cross-Repository Updates**: Detail any infrastructure changes affecting multiple repositories.
+- **Repository-Specific Updates**:
+  - **Repository 1**: Describe infrastructure enhancements.
+  - **Repository 2**: Describe infrastructure enhancements.
 
-## Code Simplifications and Cleanup
+### Tooling Updates
 
-- **Refactoring Efforts**: Summarize efforts made towards code simplification, including any significant refactoring done to improve maintainability or performance.
+- Mention updates to development tools, libraries, or dependencies that impact the workflow.
 
-- **Deprecated Features**: List any features or components that have been deprecated or removed, along with the reasons and implications.
+## Code Quality and Maintenance
+
+### Refactoring Efforts
+
+- **Repository 1**:
+  - Summarize refactoring activities and their benefits.
+- **Repository 2**:
+  - Summarize refactoring activities and their benefits.
+
+### Code Reviews and Testing
+
+- Highlight code review processes, test coverage improvements, and quality assurance efforts.
+
+### Deprecated Features
+
+- List any features deprecated during the week and provide reasons and impact assessments.
 
 ## Documentation and Guides
 
-- **New Documentation**: Highlight new or updated documentation, tutorials, or guides that help users or contributors understand your benchmarking process better.
+### New Documentation
 
-- **Documentation Plans**: Discuss any plans for future documentation improvements or areas that need better coverage.
+- **Repository 1**:
+  - Detail new or updated documentation, including guides and API references.
+- **Repository 2**:
+  - Detail new or updated documentation, including guides and API references.
 
-## Code Suggestion
+### Documentation Plans
 
-- Analyse the code, and provide better suggestion in terms of code readability and design pattern.
+- Outline plans for future documentation updates or areas needing improvement.
+
+## Metrics and Statistics
+
+- **Commits**:
+  - Total number per repository.
+- **Pull Requests**:
+  - Opened, closed, merged per repository.
+- **Issues**:
+  - Created, resolved, and outstanding per repository.
+- **Test Coverage**:
+  - Current test coverage percentages and any changes.
+
+## Risks and Mitigations
+
+- Identify any risks or potential issues that could impact progress.
+- Describe steps taken or planned to mitigate these risks.
+
+## Team Contributions and Acknowledgments
+
+- Recognize outstanding team efforts or individual achievements.
+- Mention any cross-team collaborations or support.
 
 ## Looking Ahead
 
-- Briefly outline the focus areas for the next week, including any planned benchmarking runs, infrastructure upgrades, or community events.
-
-</template>
+- **Goals for Next Week**:
+  - **Repository 1**: Outline objectives and planned activities.
+  - **Repository 2**: Outline objectives and planned activities.
+- **Long-Term Plans**:
+  - Briefly mention any upcoming milestones or strategic plans.
